@@ -1,10 +1,10 @@
 # VeritusCode
 
-**Lema:** *"Desarrollo seguro sin límites tecnológicos"*
+**Lema:** *"No desarrollamos codigo ofrecemos soluciones tecnologicas"*
 
 ## 🔐 Quiénes Somos
 
-Somos **VeritusCode**, una empresa especializada en desarrollo de software seguro para aplicaciones web y móviles (Android). Nuestro diferencial es la adaptabilidad total a los requerimientos tecnológicos de cada cliente, respaldada por un equipo de desarrolladores senior con certificaciones en seguridad informática.
+Somos **VeritusCode**, una empresa especializada en desarrollo de software seguro para aplicaciones web y móviles. Nuestro diferencial es la adaptabilidad total a los requerimientos tecnológicos de cada cliente, respaldada por un equipo de desarrolladores senior con certificaciones en seguridad informática.
 
 ---
 
@@ -17,7 +17,6 @@ Somos **VeritusCode**, una empresa especializada en desarrollo de software segur
 - Progressive Web Apps (PWAs)
 
 ### 📱 Desarrollo Android de Alto Rendimiento
-- Apps nativas con Kotlin/Java
 - Aplicaciones híbridas (Flutter/React Native)
 - Integración con hardware móvil (GPS, cámaras, sensores)
 - Publicación asistida en Google Play Store
@@ -50,23 +49,8 @@ Somos **VeritusCode**, una empresa especializada en desarrollo de software segur
   - Gestión segura de credenciales
 - **Transparencia Total**: Reportes semanales de progreso
 - **Equipo Certificado**: 
-  - Certificaciones CISSP, CEH, AWS Security
-  - +5 años de experiencia promedio por desarrollador
-
----
-
-## 📌 Casos de Éxito
-
-*"Para [Cliente Financiero Anónimo], implementamos un sistema bancario móvil con:*
-- Autenticación biométrica
-- Transacciones encriptadas con AES-256
-- Tiempo de respuesta bajo 400ms
-- 0 vulnerabilidades críticas en auditoría final"
-
-*"Solución para [Startup de Salud]:*
-- HIPAA-compliant
-- Almacenamiento encriptado en AWS
-- 99.99% uptime en los últimos 12 meses"
+  - Certificaciones AWS Security
+  - +3 años de experiencia promedio por desarrollador
 
 ---
 
@@ -84,11 +68,11 @@ Somos **VeritusCode**, una empresa especializada en desarrollo de software segur
 
 ## 📚 Recursos Técnicos
 
-```plaintext
+plaintext
 Documentación técnica disponible para clientes:
 - API Security Guidelines v3.2
 - Mobile App Hardening Checklist
 - Web Security Cookbook (OWASP Edition)
-```
 
-> "En VeritusCode no vendemos software, vendemos **soluciones seguras** que generan confianza." — Equipo de Dirección
+
+> "En VeritusCode no vendemos software, vendemos **soluciones seguras** que generan confianza." 
