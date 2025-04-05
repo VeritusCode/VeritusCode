@@ -1,93 +1,94 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1vZGJxY2RjZ3Z2N2VjZzV5eG5lZ3JtN3J6YzZ6dWxqYzR6bGZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="VeritusCode Secure Development">
-</div>
+# VeritusCode
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> 
-  <strong>VeritusCode</strong>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
-</h1>
-<h3 align="center">🔒 <i>"Tu visión, nuestro código: seguridad sin fronteras tecnológicas"</i> 🔒</h3>
+**Lema:** *"Desarrollo seguro sin límites tecnológicos"*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="300" alt="Secure Shield">
-</div>
+## 🔐 Quiénes Somos
+
+Somos **VeritusCode**, una empresa especializada en desarrollo de software seguro para aplicaciones web y móviles (Android). Nuestro diferencial es la adaptabilidad total a los requerimientos tecnológicos de cada cliente, respaldada por un equipo de desarrolladores senior con certificaciones en seguridad informática.
 
 ---
 
-## **🛡️ Nuestra Especialidad**
-Desarrollamos **aplicaciones web y Android seguras** adaptándonos a tu stack tecnológico preferido. Nuestro equipo multidisciplinario domina:
+## 🛠️ Nuestros Servicios Principales
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React%20/%20Vue%20/%20Angular-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black" alt="Frontend">
-  <img src="https://img.shields.io/badge/-Node.js%20/%20Django%20/%20Laravel-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"> <br>
-  <img src="https://img.shields.io/badge/-Kotlin%20/%20Flutter%20/%20React%20Native-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Mobile">
-  <img src="https://img.shields.io/badge/-AWS%20/%20Azure%20/%20GCP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud"> <br>
-  <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security">
-</p>
+### 🌐 Desarrollo Web a Medida
+- Aplicaciones empresariales escalables
+- Portales de usuario con autenticación segura
+- Sistemas E-commerce con pagos encriptados
+- Progressive Web Apps (PWAs)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Stack">
-</div>
+### 📱 Desarrollo Android de Alto Rendimiento
+- Apps nativas con Kotlin/Java
+- Aplicaciones híbridas (Flutter/React Native)
+- Integración con hardware móvil (GPS, cámaras, sensores)
+- Publicación asistida en Google Play Store
+
+### 🔒 Auditoría y Seguridad
+- Análisis estático/dinámico de código
+- Pruebas de penetración (pentesting)
+- Cumplimiento de normativas (GDPR, HIPAA, OWASP)
+- Capacitación en seguridad para equipos
 
 ---
 
-## **⚡ Nuestra Ventaja**
-```python
-def ventaja_veritus():
-    return {
-        "flexibilidad": "Adaptamos cualquier stack tecnológico",
-        "seguridad": "Encriptación E2E y prácticas OWASP",
-        "equipo": "Desarrolladores senior certificados",
-        "soporte": "Mantenimiento 24/7"
-    }
+## 💼 Nuestra Metodología
+
+1. **Consultoría Inicial**: Análisis detallado de requerimientos
+2. **Diseño Arquitectónico**: Planificación de stack tecnológico
+3. **Desarrollo Iterativo**: Sprint semanales con entregables
+4. **Pruebas de Seguridad**: Evaluación continua
+5. **Despliegue Guiado**: Implementación faseada
+6. **Soporte Continuo**: Mantenimiento 24/7
+
+---
+
+## � Por Qué Elegirnos
+
+- **Flexibilidad Tecnológica**: Dominamos +15 stacks principales
+- **Enfoque en Seguridad**: Todos los proyectos incluyen:
+  - Encriptación end-to-end
+  - Protección contra inyecciones SQL/XSS
+  - Gestión segura de credenciales
+- **Transparencia Total**: Reportes semanales de progreso
+- **Equipo Certificado**: 
+  - Certificaciones CISSP, CEH, AWS Security
+  - +5 años de experiencia promedio por desarrollador
+
+---
+
+## 📌 Casos de Éxito
+
+*"Para [Cliente Financiero Anónimo], implementamos un sistema bancario móvil con:*
+- Autenticación biométrica
+- Transacciones encriptadas con AES-256
+- Tiempo de respuesta bajo 400ms
+- 0 vulnerabilidades críticas en auditoría final"
+
+*"Solución para [Startup de Salud]:*
+- HIPAA-compliant
+- Almacenamiento encriptado en AWS
+- 99.99% uptime en los últimos 12 meses"
+
+---
+
+## 📞 Contacto
+
+**📧 Email:** [contacto@verituscode.com](mailto:contacto@verituscode.com)  
+**🌐 Website:** [www.verituscode.com](https://www.verituscode.com)  
+**📅 Agenda una consulta:** [Calendly.com/verituscode](https://calendly.com/verituscode)  
+
+**Oficinas Principales:**  
+📍 Av. Tecnológica 123, Piso 8  
+🕒 Lunes a Viernes: 9:00 - 18:00  
+
+---
+
+## 📚 Recursos Técnicos
+
+```plaintext
+Documentación técnica disponible para clientes:
+- API Security Guidelines v3.2
+- Mobile App Hardening Checklist
+- Web Security Cookbook (OWASP Edition)
 ```
 
----
-
-## **📱💻 Multiplataforma Impecable**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/XyV4eJMB0pDesCKbC5/giphy.gif" width="200" alt="Web Dev">
-        <br><strong>Aplicaciones Web</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3o6Zt6KHxJTkzR4kK4/giphy.gif" width="200" alt="Android Dev">
-        <br><strong>Aplicaciones Android</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## **🔐 Nuestro Compromiso de Seguridad**
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Security Shield">
-  <br>
-  <p>Auditorías de código | Pentesting automatizado | Cumplimiento GDPR/HIPAA</p>
-</div>
-
----
-
-## **📬 Contacto**
-<div align="center">
-  <a href="mailto:hola@verituscode.com">
-    <img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="150" alt="Email">
-  </a>
-  <br>
-  ✉️ <strong>Email:</strong> hola@verituscode.com <br>
-  🌐 <strong>Sitio web:</strong> <a href="https://www.verituscode.com">www.verituscode.com</a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100" alt="Coding">
-</div>
-
-<!-- Mensaje oculto para el equipo -->
-<details>
-  <summary>✨ <i>Tip profesional</i></summary>
-  <p align="center">Usa <code>git commit -m "update: mejoras en README"</code> al guardar cambios</p>
-</details>
+> "En VeritusCode no vendemos software, vendemos **soluciones seguras** que generan confianza." — Equipo de Dirección
